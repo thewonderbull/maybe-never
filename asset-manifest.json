@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maybe-never/static/css/main.e8984d12.css",
+    "main.js": "/maybe-never/static/js/main.7684aad3.js",
+    "index.html": "/maybe-never/index.html",
+    "main.e8984d12.css.map": "/maybe-never/static/css/main.e8984d12.css.map",
+    "main.7684aad3.js.map": "/maybe-never/static/js/main.7684aad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8984d12.css",
+    "static/js/main.7684aad3.js"
+  ]
+}
